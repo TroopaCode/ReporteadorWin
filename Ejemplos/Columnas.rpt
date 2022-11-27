@@ -1,0 +1,7 @@
+
+//COLUMNAS
+//Esta instrucción define 4 columnas, la 1ra de 10 cm, la 2da de 10, la 3ra de 4 cm, y la última de 1 cm 
+COLUMNAS 4;10,2,4,1 
+
+//Esta instrucción define 5 columnas las primeras 4 de 2 cm de ancho y la última de 3 cm. 
+COLUMNAS 5;4*2,3

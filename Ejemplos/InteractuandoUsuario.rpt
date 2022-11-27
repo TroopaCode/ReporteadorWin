@@ -1,0 +1,21 @@
+//INSTRUCCIONES DE SALIDA: LISTA, TEXTO e IMPRIME
+//INSTRUCCIONES DE ENTRADA: PARAMETRO y ACEPTA
+
+//LISTA
+// La siguiente instrucción despliega el mensaje “Mi nombre es” en la primera columna, y el 
+// mensaje “Marco” en la segunda columna 
+Lista ‘Mi nombre es ‘,’Marco’ 
+
+// La siguiente instrucción despliega el valor almacenado en la variable varTelefono en la 
+//cuarta columna. 
+Lista ‘’,’’,’’,varTelefono
+
+
+
+//TEXTO E IMPRIME
+// La siguiente instrucción despliega la palabra “Hola” en la columna 1, la palabra “Marco” en 
+// la columna 2, y la palabra “Muñoz” en la columna 3 
+Texto C0;’Hola’ 
+Texto C1;’Marco’ 
+Texto C2;’Muñoz’ 
+Imprime 
