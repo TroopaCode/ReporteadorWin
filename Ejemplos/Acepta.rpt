@@ -1,0 +1,10 @@
+// La siguiente instrucción muestra un cuadro de diálogo pidiendo la edad del usuario y la
+// almacena en la variable varEdad.
+Acepta ‘Datos Personales’;’Introduce la edad’;varEdad
+
+
+// La siguiente instrucción muestra un cuadro de diálogo mostrando una lista de colores de las
+// cuales se almacenará la seleccionada por el usuario en la variable varColor.
+
+//Acepta ‘Titulo’;’Mensaje’;varReceptora;’elemento1,elemento2,elemento3’
+Acepta ‘Lista de colores’;’Seleccione un color’;varColor;’Rojo,Azul,Blanco,Verde’

@@ -15,10 +15,10 @@ varDatos[4] = 'Diario'  //Sexo
 varDatos[5] = 220  //Sueldo diario
 
 //Imprimir elementos
-TEXTO C0 = varDatos[0]
-TEXTO C1 = varDatos[1]
-TEXTO C2 = varDatos[2]
-TEXTO C3 = varDatos[3]
-TEXTO C4 = varDatos[4]
-TEXTO C5 = varDatos[5]
+TEXTO C0 = 'PER001'  //Codigo
+TEXTO C1 = 'Gutierrez'  //Apellido Paterno
+TEXTO C2 = 'Gonzalez' //Apellido Materno 
+TEXTO C3 = 'Gabriel' //Nombre
+TEXTO C4 = 'Diario'  //Sexo
+TEXTO C5 = 220
 IMPRIME
