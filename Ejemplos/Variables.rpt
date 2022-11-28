@@ -1,0 +1,5 @@
+// Para asignar la palabra Hola en la casilla 0 de una variable llamada varDatos se hace de lasiguiente manera:
+varDatos[0]=’Hola’
+
+// Para asignar el número 45 en la casilla 1 de la variable varDatos se hace de la siguiente manera:
+varDatos[1]=45

@@ -1,0 +1,24 @@
+//Genere un reporte nuevo en un archivo llamado Lab1.rpt
+// -  Despliegue los títulos de los siguientes campos:
+//      - Código, Apellido Paterno, Apellido Materno, Nombre, Sexo, Sueldo Diario
+// - Compile el archivo con el BDERep32.exe
+
+//Columnas (Cantidad) 6: Código (3cm), Apellido Paterno y Materno (10cm), Nombre (20cm), Sexo(3cm) y Sueldo (4cm)
+COLUMNAS 6; 3, 10*2, 20, 3, 4
+
+//Guardar en Variables
+varDatos[0] = 'PER001'  //Codigo
+varDatos[1] = 'Gutierrez'  //Apellido Paterno
+varDatos[2] = 'Gonzalez' //Apellido Materno 
+varDatos[3] = 'Gabriel' //Nombre
+varDatos[4] = 'Diario'  //Sexo
+varDatos[5] = 220  //Sueldo diario
+
+//Imprimir elementos
+TEXTO C0 = varDatos[0]
+TEXTO C1 = varDatos[1]
+TEXTO C2 = varDatos[2]
+TEXTO C3 = varDatos[3]
+TEXTO C4 = varDatos[4]
+TEXTO C5 = varDatos[5]
+IMPRIME
